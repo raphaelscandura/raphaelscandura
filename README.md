@@ -7,7 +7,7 @@
 🐦  [Instagram](https://www.instagram.com/raphascandura/) <br>
 💼  [LinkedIn](https://www.linkedin.com/in/raphaelscandura/) <br>
 
-### My technology Stack 👩‍💻
+### Programming 👩‍💻
 #
 #### Front-end
 <img align="left" alt="HTML" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
