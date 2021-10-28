@@ -31,12 +31,12 @@
 
 #
 #### Misc
-- Scrum, TDD, Data Structures, OOP, Bootstrap, Git
+- Scrum, TDD, Data Structures, OOP, Bootstrap, Git, Clean Code, Design Patterns
 
 <!--
 Huh? What are you doing here? No spying on my code, bruv
 
-Yeah, sorry for that, here's some of the next things I want to include on my tech stack:
+Yeah, sorry for that, here's some of the next things I want to include in my tech stack:
 
 <img align="left" alt="C Sharp" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
 <img align="left" alt=".Net" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg"/>
