@@ -13,6 +13,7 @@
 <img align="left" alt="HTML" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="left" alt="CSS" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
 <img align="left" alt="Js" heigth="28" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
 <!-- break-->
 
 <br />
@@ -43,7 +44,6 @@ Yeah, sorry for that, here's some of the next things I want to include in my tec
 <img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/>
 <img align="left" alt="NodeJS" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
 <img align="left" alt="ExpressJS" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"/>
-<img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
 <img align="left" alt="AWS" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"/>
 <img align="left" alt="Django" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"/>
 <img align="left" alt="Flutter" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"/>
