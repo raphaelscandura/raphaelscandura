@@ -1,6 +1,6 @@
 ### Hello there, I'm Raph! 👋
 
-🇧🇷  I'm a 25yo computer science student at Anhembi Morumbi University!
+🇧🇷  I'm a 25yo fullstack web dev and a computer science student at Anhembi Morumbi University!
 
 ### Find me elsewhere 🌎
 
