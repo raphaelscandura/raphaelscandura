@@ -1,6 +1,6 @@
 ### Hello there, I'm Raph! 👋
 
-🇧🇷  I'm a 25yo fullstack web dev and a computer science student at Anhembi Morumbi University!
+🇧🇷  I'm a 25yo fullstack dev and a computer science student at Anhembi Morumbi University!
 
 ### Find me elsewhere 🌎
 
@@ -27,6 +27,17 @@
 <img align="left" alt="MySQL" heigth="28" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 <img align="left" alt="PHP" heigth="28" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 <img align="left" alt="C++" heigth="28" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+
+<br />
+
+#
+#### DevOps
+<img align="left" alt="AWS" heigth="28" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+<img align="left" alt="Apache Kafka" heigth="28" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg">
+<img align="left" alt="Azure" heigth="28" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+<img align="left" alt="Docker" heigth="28" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+<img align="left" alt="Grafana" heigth="28" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg">
+<img align="left" alt="Terraform" heigth="28" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
 
 <br />
 
