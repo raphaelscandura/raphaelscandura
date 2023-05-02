@@ -32,7 +32,7 @@
 
 #
 #### DevOps
-<img align="left" alt="AWS" heigth="28" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+<img align="left" alt="AWS" heigth="28" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 <img align="left" alt="Apache Kafka" heigth="28" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg">
 <img align="left" alt="Azure" heigth="28" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
 <img align="left" alt="Docker" heigth="28" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
