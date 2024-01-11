@@ -1,6 +1,6 @@
 ### Hello there, I'm Raph! 👋
 
-🇧🇷  I'm a 25yo fullstack dev and a computer science student at Anhembi Morumbi University!
+🇧🇷  I'm a Computer Science graduate and Full Stack Dev from Brazil!
 
 ### Find me elsewhere 🌎
 
