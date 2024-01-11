@@ -14,7 +14,6 @@
 <img align="left" alt="CSS" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
 <img align="left" alt="Js" heigth="28" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 <img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-<img align="left" alt="NodeJS" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
 <!-- break-->
 
 <br />
@@ -28,6 +27,7 @@
 <img align="left" alt="MySQL" heigth="28" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 <img align="left" alt="PHP" heigth="28" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 <img align="left" alt="C++" heigth="28" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+<img align="left" alt="NodeJS" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
 
 <br />
 
