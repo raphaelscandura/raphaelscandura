@@ -34,13 +34,12 @@
 #
 #### DevOps
 <img align="left" alt="AWS" heigth="28" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-<img align="left" alt="Apache Kafka" heigth="28" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg">
 <img align="left" alt="Azure" heigth="28" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
 <img align="left" alt="Docker" heigth="28" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+<img align="left" alt="Kubernetes" heigth="28" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg">
 <img align="left" alt="Grafana" heigth="28" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg">
 <img align="left" alt="Terraform" heigth="28" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
-<img align="left" alt="AWS" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"/>
-<img align="left" alt="Docker" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
+<img align="left" alt="Kafka" heigth="28" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg">
 
 <br />
 
@@ -49,17 +48,14 @@
 - Scrum, TDD, Data Structures, OOP, Bootstrap, Git, Clean Code, Design Patterns
 
 <!--
-Huh? What are you doing here? No spying on my code, bruv
+Huh? What are you doing here? No spying on my code, bro!
 
 Yeah, sorry for that, here's some of the next things I want to include in my tech stack:
 
 <img align="left" alt="C Sharp" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
 <img align="left" alt=".Net" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg"/>
 <img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/>
-<img align="left" alt="ExpressJS" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"/>
-<img align="left" alt="Django" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"/>
 <img align="left" alt="Flutter" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"/>
-<img align="left" alt="Apache Kafka" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg"/>
 <img align="left" alt="Clojure" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clojure/clojure-original.svg"/>
 <img align="left" alt="Figma" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"/>
 -->
